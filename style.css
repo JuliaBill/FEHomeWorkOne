@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+}
+.hobby{
+    border: 2px solid skyblue;
+    background-color: aqua;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.hobby{
+    text-align: center;
+}
+.hobby img{
+    width: 200px;
+}
+.hobby p{
+    font-size: 20px;
+}
+
+.work{
+    text-align: center;
+}
+.work{
+    font-size: 20px;
+}
+.work{
+    border: 2px solid rgb(87, 228, 111);
+    background-color: yellow;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.work img{
+    width: 300px;
+}
+
+.family{
+    text-align: center;
+}
+.family{
+    font-size: 20px;
+}
+.family img{
+    width: 300px;
+}
+.family{
+    border: 2px solid rgb(177, 36, 60);
+    background-color: lightpink;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.links{
+    text-align: center;
+}
+.links img{
+    width: 50px;
+}
